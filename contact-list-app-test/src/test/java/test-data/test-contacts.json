@@ -1,0 +1,22 @@
+[
+	{
+		"firstName": "Test1",
+		"lastName": "Contact1",
+		"birthdate": "1970-01-01",
+		"email": "test1@contact.com",
+		"phone": "8005555551"
+	},
+	{
+		"firstName": "Test2",
+		"lastName": "Contact2",
+		"email": "test2@contact.com",
+		"phone": "8005555552"
+	},
+	{
+		"firstName": "Test3",
+		"lastName": "Contact3",
+		"birthdate": "1970-01-02",
+		"email": "test3@contact.com",
+		"phone": "8005555553"
+	}
+]

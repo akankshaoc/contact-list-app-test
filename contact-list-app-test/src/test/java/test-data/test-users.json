@@ -1,0 +1,62 @@
+[
+	{
+		"firstName": "Test01",
+		"lastName": "User01",
+		"email": "test01.user@testermon.com",
+		"password": "loremipsum01"
+	},
+	{
+		"firstName": "Test02",
+		"lastName": "User02",
+		"email": "test02.user@testermon.com",
+		"password": "loremipsum02"
+	},
+	{
+		"firstName": "Test03",
+		"lastName": "User03",
+		"email": "test03.user@testermon.com",
+		"password": "loremipsum03"
+	},
+	{
+		"firstName": "Test04",
+		"lastName": "User04",
+		"email": "test04.user@testermon.com",
+		"password": "loremipsum04"
+	},
+	{
+		"firstName": "Test05",
+		"lastName": "User05",
+		"email": "test05.user@testermon.com",
+		"password": "loremipsum05"
+	},
+	{
+		"firstName": "Test06",
+		"lastName": "User06",
+		"email": "test06.user@testermon.com",
+		"password": "loremipsum06"
+	},
+	{
+		"firstName": "Test07",
+		"lastName": "User07",
+		"email": "test07.user@testermon.com",
+		"password": "loremipsum07"
+	},
+	{
+		"firstName": "Test08",
+		"lastName": "User08",
+		"email": "test08.1.user@testermon.com",
+		"password": "loremipsum08"
+	},
+	{
+		"firstName": "Test09",
+		"lastName": "User09",
+		"email": "test09.user@testermon.com",
+		"password": "loremipsum09"
+	},
+	{
+		"firstName": "Test10",
+		"lastName": "User10",
+		"email": "test10.user@testermon.com",
+		"password": "loremipsum10"
+	}
+]

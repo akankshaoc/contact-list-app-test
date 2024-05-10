@@ -25,10 +25,10 @@ This is an automated test application to validate the functionality of the [cont
 
 ## Test Scenarios
 
-Refer to the [test scenario sheet]()
+Refer to the [test scenario sheet](https://github.com/akankshaoc/contact-list-app-test/blob/main/contact-list-app-test/resources/Contact_List_App_Test_Scenarios.xlsx)
 
 ## Running Locally
 
 - clone repository
 - from the root, `./contcat-list-app`, run command `mvn test`
-- if you wish to run a particular scenario or feature, refer to the [test scenario sheet]() for tag, `e.g. @FE01, @FE02SE01` and run tests with the following command `mvn test -Dkarate.options='--tags @IDTAG'`
+- if you wish to run a particular scenario or feature, refer to the [test scenario sheet](https://github.com/akankshaoc/contact-list-app-test/blob/main/contact-list-app-test/resources/Contact_List_App_Test_Scenarios.xlsx) for tag, `e.g. @FE01, @FE02SE01` and run tests with the following command `mvn test -Dkarate.options='--tags @IDTAG'`
